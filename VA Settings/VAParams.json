@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.038.1",
-	"КаталогФич": "C:\\Users\\MadB\\AppData\\Local\\Temp\\vanessa-automation\\temp.feature",
+	"КаталогФич": "H:\\QACourseGIT\\TestQA\\Features_IRP\\Internal\\Заказ поставщику\\Проверка табличных частей Заказ поставщику.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -14,7 +14,7 @@
 	"ИспользоватьРедакторVanessaEditor": true,
 	"ТемаРедактораVanessaEditor": "vs-dark",
 	"ИспользоватьДанныеТекущейФормыПриПодбореШагов": true,
-	"ПоказыватьСтрокиПодсценариевVanessaEdittor": true,
+	"ПоказыватьСтрокиПодсценариевVanessaEdittor": false,
 	"ПоказыватьЗначенияПеременныхВСтрокахРедактора": true,
 	"ОткрыватьНачальнуюСтраницуПриЗапуске": true,
 	"ПоказыватьМиниатюруКода": true,
@@ -102,7 +102,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"H:\\Vanessa\\features\\Libraries",
-		"H:\\QACourseGIT\\TestQA\\Export"
+		"H:\\QACourseGIT\\TestQA\\Export",
+		"H:\\QACourseGIT\\TestQA\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
